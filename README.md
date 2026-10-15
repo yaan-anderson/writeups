@@ -1,4 +1,4 @@
-  O exercício que escolhi para relatar do desafio de 31 dias de Cibersegurança do Turno Zero foi o de criar um arquivo txt e deixar aberto para todos os públicos de forma proposital. Foi feito o upload desse arquivo no google drive e qualquer pessoa poderia acessá-lo com o link, sem logar e sem senha nenhuma.
+  O exercício que escolhi para relatar do desafio de 30 dias de Cibersegurança do Turno Zero foi o de criar um arquivo txt e deixar aberto para todos os públicos de forma proposital. Foi feito o upload desse arquivo no google drive e qualquer pessoa poderia acessá-lo com o link, sem logar e sem senha nenhuma.
   
   Antes desse exercício eu acreditava que ao subir um arquivo ele automaticamente ficaria restrito somente para mim e para pessoas autorizadas acessá-lo, sem precisar configurar (sou leigo em praticamente tudo e nunca precisei usar essa ferramenta). No entanto, eu estava equivocado.
   
